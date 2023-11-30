@@ -1,0 +1,16 @@
+
+body {
+  background-color: rgb(52, 52, 52);
+}
+
+div.flex.mb-4.items-center {
+  background-color: gray;
+  border: solid darkgray;
+  border-radius: 5px;
+}
+
+button {
+  padding: 2px;
+  border-radius: 10px;
+
+}
